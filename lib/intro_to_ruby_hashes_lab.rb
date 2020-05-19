@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- {my_hat: => "yankee"}
+clothes = {my_hat: => "yankee"}
 end
 
 def pioneer
