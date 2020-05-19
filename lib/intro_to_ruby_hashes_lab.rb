@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  
+  "banana" => 0.69
 end
 
 def pioneer
