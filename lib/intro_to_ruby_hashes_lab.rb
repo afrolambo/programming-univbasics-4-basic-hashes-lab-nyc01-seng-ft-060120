@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-  binding.pry
-  "banana" => 0.69
+  my_hash = {"banana" => 0.60
 end
 
 def pioneer
