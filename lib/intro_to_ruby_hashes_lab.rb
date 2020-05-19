@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {"banana" => 0.60
+  my_hash = {"banana" => 0.60}
 end
 
 def pioneer
